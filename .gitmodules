@@ -1,0 +1,3 @@
+[submodule "aes-finder"]
+	path = aes-finder
+	url = https://github.com/jeffallen/aes-finder.git
